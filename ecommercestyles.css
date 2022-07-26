@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+    font-family: 'Comfortaa','cursive';
+}
+.container1{
+    width:100.6%;
+    height: 600px;
+    background-color: black;
+}
+#t1{
+    color: white;
+    text-align: center;
+    padding-top: 6%;
+    font-size: 45px;
+}
+.container2{
+    padding-left: 104px;
+    padding-right: 104px;
+    background-color: black;
+    padding-top: 25px;
+ 
+   
+}
+#t2{
+    text-align: center;
+    padding-top: 16px;
+
+    font-size: 30px;
+    color: white;
+
+}
+#hr1{
+    width: 15%;
+    margin-left: 43%;
+    border: 6px solid white;
+    border-style: dotted;
+    border-top: 0px;
+
+}
+.container2 img {
+   
+    border-radius: 18px;
+    width: 90%;
+}
+.hr3{
+border: 0;
+height: 3px;
+
+background-image: linear-gradient(to right, rgb(30, 30, 30), white, rgb(39, 38, 38));}
+.container5{
+    padding-top: 4px;
+    margin-left: 20% ;
+    padding-right: 15px;
+}
+#ud{
+    color: goldenrod;
+}
+.btn{
+    color: black;
+    font-weight: bolder;
+}
+#t{
+    font-size: 45px;
+    color: gold;
+    
+}
+.fa {
+    font: normal normal normal !important;
+}
+#r{
+    font-weight: bolder;
+}
+#btnn1{
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+#btnn1:hover{
+    background-color: gold;
+    color: black;
+}
